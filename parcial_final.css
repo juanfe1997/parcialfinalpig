@@ -11,6 +11,10 @@ header{
 	font-family: arial;
 	padding: 20px;
 	margin: 0 auto;
+	justify-content: space-around;
+	width: 100%;
+	display: flex;
+	
 
 
 }
